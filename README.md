@@ -25,4 +25,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aswanth-18/LeetCode/tree/master/0070-climbing-stairs) |
+## Linked List
+|  |
+| ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Aswanth-18/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Aswanth-18/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 <!---LeetCode Topics End-->
