@@ -29,10 +29,12 @@
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Aswanth-18/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0148-sort-list](https://github.com/Aswanth-18/LeetCode/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Aswanth-18/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0148-sort-list](https://github.com/Aswanth-18/LeetCode/tree/master/0148-sort-list) |
 ## Array
 |  |
 | ------- |
@@ -45,4 +47,16 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aswanth-18/LeetCode/tree/master/0054-spiral-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Aswanth-18/LeetCode/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Aswanth-18/LeetCode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Aswanth-18/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
