@@ -67,10 +67,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aswanth-18/LeetCode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Aswanth-18/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Aswanth-18/LeetCode/tree/master/0225-implement-stack-using-queues) |
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Aswanth-18/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Aswanth-18/LeetCode/tree/master/0225-implement-stack-using-queues) |
 ## Queue
 |  |
