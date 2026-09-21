@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aswanth-18/LeetCode/tree/master/0054-spiral-matrix) |
+| [0739-daily-temperatures](https://github.com/Aswanth-18/LeetCode/tree/master/0739-daily-temperatures) |
 ## Matrix
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | [0020-valid-parentheses](https://github.com/Aswanth-18/LeetCode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Aswanth-18/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Aswanth-18/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0739-daily-temperatures](https://github.com/Aswanth-18/LeetCode/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
@@ -82,4 +84,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aswanth-18/LeetCode/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Aswanth-18/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
