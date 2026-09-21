@@ -11,6 +11,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Aswanth-18/LeetCode/tree/master/0020-valid-parentheses) |
 | [0771-jewels-and-stones](https://github.com/Aswanth-18/LeetCode/tree/master/0771-jewels-and-stones) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Aswanth-18/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Aswanth-18/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -65,6 +66,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Aswanth-18/LeetCode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Aswanth-18/LeetCode/tree/master/0225-implement-stack-using-queues) |
 ## Design
 |  |
@@ -74,4 +76,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Aswanth-18/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Aswanth-18/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
