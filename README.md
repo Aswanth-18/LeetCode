@@ -14,6 +14,7 @@
 | [0020-valid-parentheses](https://github.com/Aswanth-18/LeetCode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Aswanth-18/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/Aswanth-18/LeetCode/tree/master/0771-jewels-and-stones) |
+| [0856-score-of-parentheses](https://github.com/Aswanth-18/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Aswanth-18/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Aswanth-18/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Aswanth-18/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -77,6 +78,7 @@
 | [0155-min-stack](https://github.com/Aswanth-18/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Aswanth-18/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0739-daily-temperatures](https://github.com/Aswanth-18/LeetCode/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/Aswanth-18/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Aswanth-18/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Design
 |  |
@@ -91,6 +93,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aswanth-18/LeetCode/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Aswanth-18/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Aswanth-18/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
