@@ -16,6 +16,7 @@
 | [0771-jewels-and-stones](https://github.com/Aswanth-18/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0856-score-of-parentheses](https://github.com/Aswanth-18/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Aswanth-18/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Aswanth-18/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Aswanth-18/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Aswanth-18/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Math
@@ -80,6 +81,7 @@
 | [0739-daily-temperatures](https://github.com/Aswanth-18/LeetCode/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/Aswanth-18/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Aswanth-18/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Aswanth-18/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Design
 |  |
 | ------- |
