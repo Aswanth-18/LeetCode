@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aswanth-18/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/Aswanth-18/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/Aswanth-18/LeetCode/tree/master/0771-jewels-and-stones) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Aswanth-18/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Aswanth-18/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -50,6 +51,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aswanth-18/LeetCode/tree/master/0054-spiral-matrix) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aswanth-18/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0496-next-greater-element-i](https://github.com/Aswanth-18/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Aswanth-18/LeetCode/tree/master/0739-daily-temperatures) |
 ## Matrix
 |  |
@@ -78,6 +80,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aswanth-18/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Aswanth-18/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Aswanth-18/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/Aswanth-18/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Aswanth-18/LeetCode/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/Aswanth-18/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Aswanth-18/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -100,5 +103,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Aswanth-18/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Aswanth-18/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
