@@ -7,7 +7,7 @@ class Solution {
 
         for (int i = 0; i < gas.length; i++) {
             tot += gas[i] - cost[i];
-            rem = gas[i] - cost[i] + rem;
+            rem += gas[i] - cost[i] ;
 
             if (rem < 0) {
                 st = i + 1;
