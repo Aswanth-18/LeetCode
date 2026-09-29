@@ -52,6 +52,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aswanth-18/LeetCode/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/Aswanth-18/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0134-gas-station](https://github.com/Aswanth-18/LeetCode/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aswanth-18/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/Aswanth-18/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Aswanth-18/LeetCode/tree/master/0739-daily-temperatures) |
@@ -108,4 +109,8 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Aswanth-18/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Aswanth-18/LeetCode/tree/master/0739-daily-temperatures) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/Aswanth-18/LeetCode/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
