@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aswanth-18/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Aswanth-18/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Aswanth-18/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/Aswanth-18/LeetCode/tree/master/0771-jewels-and-stones) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Aswanth-18/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -54,6 +55,7 @@
 | [0088-merge-sorted-array](https://github.com/Aswanth-18/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/Aswanth-18/LeetCode/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aswanth-18/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Aswanth-18/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Aswanth-18/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Aswanth-18/LeetCode/tree/master/0739-daily-temperatures) |
 ## Matrix
@@ -73,6 +75,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Aswanth-18/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Aswanth-18/LeetCode/tree/master/0148-sort-list) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Aswanth-18/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
