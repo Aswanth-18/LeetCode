@@ -56,6 +56,7 @@
 | [0134-gas-station](https://github.com/Aswanth-18/LeetCode/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aswanth-18/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aswanth-18/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0493-reverse-pairs](https://github.com/Aswanth-18/LeetCode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Aswanth-18/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Aswanth-18/LeetCode/tree/master/0739-daily-temperatures) |
 ## Matrix
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Aswanth-18/LeetCode/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/Aswanth-18/LeetCode/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -80,6 +82,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Aswanth-18/LeetCode/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/Aswanth-18/LeetCode/tree/master/0493-reverse-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -116,4 +119,24 @@
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Aswanth-18/LeetCode/tree/master/0134-gas-station) |
+## Binary Search
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Aswanth-18/LeetCode/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Aswanth-18/LeetCode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Aswanth-18/LeetCode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Aswanth-18/LeetCode/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Aswanth-18/LeetCode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
