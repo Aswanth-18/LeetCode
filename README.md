@@ -55,6 +55,7 @@
 | [0088-merge-sorted-array](https://github.com/Aswanth-18/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/Aswanth-18/LeetCode/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aswanth-18/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0164-maximum-gap](https://github.com/Aswanth-18/LeetCode/tree/master/0164-maximum-gap) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aswanth-18/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Aswanth-18/LeetCode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Aswanth-18/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -77,6 +78,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Aswanth-18/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Aswanth-18/LeetCode/tree/master/0148-sort-list) |
+| [0164-maximum-gap](https://github.com/Aswanth-18/LeetCode/tree/master/0164-maximum-gap) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aswanth-18/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Merge Sort
 |  |
@@ -139,4 +141,16 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Aswanth-18/LeetCode/tree/master/0493-reverse-pairs) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Aswanth-18/LeetCode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Aswanth-18/LeetCode/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Aswanth-18/LeetCode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
