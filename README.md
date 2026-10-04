@@ -57,6 +57,7 @@
 | [0054-spiral-matrix](https://github.com/Aswanth-18/LeetCode/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/Aswanth-18/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/Aswanth-18/LeetCode/tree/master/0134-gas-station) |
+| [0137-single-number-ii](https://github.com/Aswanth-18/LeetCode/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aswanth-18/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/Aswanth-18/LeetCode/tree/master/0164-maximum-gap) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aswanth-18/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -159,4 +160,8 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Aswanth-18/LeetCode/tree/master/0164-maximum-gap) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/Aswanth-18/LeetCode/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
