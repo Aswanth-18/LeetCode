@@ -27,6 +27,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aswanth-18/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aswanth-18/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1952-three-divisors](https://github.com/Aswanth-18/LeetCode/tree/master/1952-three-divisors) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -165,4 +166,20 @@
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Aswanth-18/LeetCode/tree/master/0137-single-number-ii) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Aswanth-18/LeetCode/tree/master/1952-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Aswanth-18/LeetCode/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Aswanth-18/LeetCode/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Aswanth-18/LeetCode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
