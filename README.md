@@ -66,10 +66,12 @@
 | [0493-reverse-pairs](https://github.com/Aswanth-18/LeetCode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Aswanth-18/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Aswanth-18/LeetCode/tree/master/0739-daily-temperatures) |
+| [0994-rotting-oranges](https://github.com/Aswanth-18/LeetCode/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aswanth-18/LeetCode/tree/master/0054-spiral-matrix) |
+| [0994-rotting-oranges](https://github.com/Aswanth-18/LeetCode/tree/master/0994-rotting-oranges) |
 ## Simulation
 |  |
 | ------- |
@@ -182,4 +184,8 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Aswanth-18/LeetCode/tree/master/1952-three-divisors) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Aswanth-18/LeetCode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
