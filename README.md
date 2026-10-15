@@ -25,6 +25,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Aswanth-18/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Aswanth-18/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aswanth-18/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1952-three-divisors](https://github.com/Aswanth-18/LeetCode/tree/master/1952-three-divisors) |
@@ -135,6 +136,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Aswanth-18/LeetCode/tree/master/0069-sqrtx) |
 | [0493-reverse-pairs](https://github.com/Aswanth-18/LeetCode/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -201,4 +203,8 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aswanth-18/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Aswanth-18/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
