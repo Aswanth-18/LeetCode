@@ -15,6 +15,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aswanth-18/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Aswanth-18/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0067-add-binary](https://github.com/Aswanth-18/LeetCode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Aswanth-18/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/Aswanth-18/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0856-score-of-parentheses](https://github.com/Aswanth-18/LeetCode/tree/master/0856-score-of-parentheses) |
@@ -25,6 +26,7 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Aswanth-18/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Aswanth-18/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Aswanth-18/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aswanth-18/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -77,6 +79,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aswanth-18/LeetCode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Aswanth-18/LeetCode/tree/master/0067-add-binary) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -170,6 +173,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Aswanth-18/LeetCode/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/Aswanth-18/LeetCode/tree/master/0137-single-number-ii) |
 | [0461-hamming-distance](https://github.com/Aswanth-18/LeetCode/tree/master/0461-hamming-distance) |
 ## Enumeration
