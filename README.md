@@ -26,6 +26,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Aswanth-18/LeetCode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Aswanth-18/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Aswanth-18/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Aswanth-18/LeetCode/tree/master/0070-climbing-stairs) |
@@ -59,6 +60,7 @@
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Aswanth-18/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Aswanth-18/LeetCode/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Aswanth-18/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Aswanth-18/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -75,6 +77,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Aswanth-18/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Aswanth-18/LeetCode/tree/master/0054-spiral-matrix) |
 | [0994-rotting-oranges](https://github.com/Aswanth-18/LeetCode/tree/master/0994-rotting-oranges) |
 ## Simulation
