@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Aswanth-18/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0064-minimum-path-sum](https://github.com/Aswanth-18/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Aswanth-18/LeetCode/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -62,6 +63,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Aswanth-18/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Aswanth-18/LeetCode/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/Aswanth-18/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Aswanth-18/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Aswanth-18/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Aswanth-18/LeetCode/tree/master/0090-subsets-ii) |
@@ -79,6 +81,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Aswanth-18/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Aswanth-18/LeetCode/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/Aswanth-18/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0994-rotting-oranges](https://github.com/Aswanth-18/LeetCode/tree/master/0994-rotting-oranges) |
 ## Simulation
 |  |
