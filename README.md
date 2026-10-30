@@ -31,6 +31,7 @@
 | [0069-sqrtx](https://github.com/Aswanth-18/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Aswanth-18/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aswanth-18/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/Aswanth-18/LeetCode/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/Aswanth-18/LeetCode/tree/master/1952-three-divisors) |
 ## Dynamic Programming
 |  |
@@ -71,6 +72,7 @@
 | [0137-single-number-ii](https://github.com/Aswanth-18/LeetCode/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aswanth-18/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/Aswanth-18/LeetCode/tree/master/0164-maximum-gap) |
+| [0204-count-primes](https://github.com/Aswanth-18/LeetCode/tree/master/0204-count-primes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aswanth-18/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Aswanth-18/LeetCode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Aswanth-18/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -189,10 +191,12 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Aswanth-18/LeetCode/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/Aswanth-18/LeetCode/tree/master/1952-three-divisors) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Aswanth-18/LeetCode/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/Aswanth-18/LeetCode/tree/master/1952-three-divisors) |
 ## Prime Factorization
 |  |
@@ -201,6 +205,7 @@
 ## Sieve Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Aswanth-18/LeetCode/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/Aswanth-18/LeetCode/tree/master/1952-three-divisors) |
 ## Breadth-First Search
 |  |
@@ -232,4 +237,12 @@
 | ------- |
 | [0078-subsets](https://github.com/Aswanth-18/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Aswanth-18/LeetCode/tree/master/0090-subsets-ii) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Aswanth-18/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Aswanth-18/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
